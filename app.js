@@ -23,6 +23,6 @@ function clickHandler(){
     }
     else
     {
-       outPut.innerText= " is not a leap year"
+       outPut.innerText=userInput + " is not a leap year"
     }
 }
