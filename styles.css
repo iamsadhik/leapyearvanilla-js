@@ -1,0 +1,47 @@
+
+body{
+    background-color:#D1D5DB;
+}
+    
+    #output{
+    border: 1px solid black;
+    height: 6vh;
+    padding-top: 1.5rem;
+    padding-bottom: 1.8rem;
+    width:45%;
+    margin: auto;
+    background-color: white;
+    text-align: center;
+    border-radius: 0.5rem;
+    font-weight: bolder;
+    font-size: 1.1rem;
+    margin:auto;
+}
+#innerbody{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+#input{
+    border:1px solid black;
+    height: 6vh;
+    width: 45%;
+    padding-top: 1.8rem;
+    padding-bottom: 1.5rem;
+    border-radius: 0.5rem;
+    text-align: center;
+    font-size: 1.3rem;
+}
+#text{
+    color: #B91C1C;
+}
+#execute{
+    background-color: darkgrey;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 0.4rem;
+}
+#image{
+    color: #D1D5DB;
+    height: 300px;
+    width: 40%;
