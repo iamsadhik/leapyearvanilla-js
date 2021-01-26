@@ -34,6 +34,7 @@ body{
 }
 #text{
     color: #B91C1C;
+    font-weight: bold;
 }
 #execute{
     background-color: darkgrey;
